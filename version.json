@@ -1,7 +1,7 @@
 {
-  "version_code": 20008,
-  "version_name": "2.0.8",
-  "download_url": "https://github.com/Alex-Donor/byakohod_app_upd/releases/download/v2.0.8/ByakoHod-v2.0.8.apk",
+  "version_code": 20009,
+  "version_name": "2.0.9",
+  "download_url": "https://github.com/Alex-Donor/byakohod_app_upd/releases/download/v2.0.9/ByakoHod-v2.0.9.apk",
   "changelog": "• Добавлен новогодний слой\n• Добавлена проверка обновлений",
   "min_android_version": 24,
   "release_date": "2025-12-18"
