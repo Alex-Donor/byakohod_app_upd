@@ -1,8 +1,8 @@
 {
-  "version_code": 20009,
-  "version_name": "2.0.9",
-  "download_url": "https://github.com/Alex-Donor/byakohod_app_upd/releases/download/v2.0.9/ByakoHod-v2.0.9.apk",
-  "changelog": "• Добавлены скрытые подарки.",
+  "version_code": 20010,
+  "version_name": "2.0.10",
+  "download_url": "https://github.com/Alex-Donor/byakohod_app_upd/releases/download/v2.0.10/ByakoHod-v2.0.10.apk",
+  "changelog": "В новогодний слой добавлено: • 22 подарка с шутками; • 10 скрытых сюрпризов с шутками.",
   "min_android_version": 24,
-  "release_date": "2025-12-18"
+  "release_date": "2025-12-23"
 }
