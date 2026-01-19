@@ -4,5 +4,5 @@
   "download_url": "https://github.com/Alex-Donor/byakohod_app_upd/releases/download/v2.1.2/ByakoHod-v2.1.2.apk",
   "changelog": "Реализован новый алгоритм поиска кратчайшего маршрута : _A с эвристической функцией (евклидово расстояние)_*.\n \n Скорость постройки маршрута увеличилась в 3-10 раз.",
   "min_android_version": 24,
-  "release_date": "2026-01-10"
+  "release_date": "2026-01-19"
 }
